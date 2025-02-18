@@ -157,7 +157,7 @@ Practice working with nested lists and tuples.
 1. Create a list of coordinate pairs (as tuples): [(1, 2), (3, 4), (5, 6)]
 2. Add a new coordinate (7, 8) to the list
 3. Access and print:
-   - The second coordinate pair
+   - The coordinate pair at index 1 (the second pair)
    - The y-value of the first coordinate
    - All x-values using a loop
 4. Calculate the distance from the origin (0, 0) for each point using: sqrt(x² + y²)
